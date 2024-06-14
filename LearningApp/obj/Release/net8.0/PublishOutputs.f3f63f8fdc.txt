@@ -1,0 +1,7 @@
+D:\ABHISHEK ADDU\AZ-204 Materials\Practice\1\bin\publish\LearningApp.exe
+D:\ABHISHEK ADDU\AZ-204 Materials\Practice\1\bin\publish\appsettings.Development.json
+D:\ABHISHEK ADDU\AZ-204 Materials\Practice\1\bin\publish\appsettings.json
+D:\ABHISHEK ADDU\AZ-204 Materials\Practice\1\bin\publish\LearningApp.dll
+D:\ABHISHEK ADDU\AZ-204 Materials\Practice\1\bin\publish\LearningApp.deps.json
+D:\ABHISHEK ADDU\AZ-204 Materials\Practice\1\bin\publish\LearningApp.runtimeconfig.json
+D:\ABHISHEK ADDU\AZ-204 Materials\Practice\1\bin\publish\LearningApp.pdb
